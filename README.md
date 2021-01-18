@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khalil Preview</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khalilpreview" alt="khalilpreview" /> </p>
-<h2> I'm a Full-Stack Developer, I create awesome and effective open-source software and platforms of all sizes. </h2>
+<h2> I'm a Python Full-Stack Developer, I create awesome and effective open-source software and platforms of all sizes. </h2>
 
 
 
