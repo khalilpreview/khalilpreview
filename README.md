@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Khalil Preview</h1>
 <h2 align="center">A lead back-end dev at NEO Finetech</h3>
 
-<h3> I'm a Python Full-Stack Developer, I create awesome and effective open-source software and platforms of all sizes. </h2>
+<h3 align="center"> I'm a Python Full-Stack Developer, I create awesome and effective open-source software and platforms of all sizes. </h2>
+
+- 📫 How to reach me **previewsites40@gmail.com**
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khalilpreview&theme=juicyfresh" alt="khalilpreview" /></a> </p>
 
@@ -10,7 +12,6 @@
 
 <p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khalilpreview&&theme=chartreuse-dark&show_icons=true&locale=en&layout=compact" alt="khalilpreview" /></p>
 
-- 📫 How to reach me **previewsites40@gmail.com**
 
 
 
