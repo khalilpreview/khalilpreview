@@ -8,6 +8,8 @@
 
 <p align="center"><img align="center" src=https://github-readme-stats.vercel.app/api?username=khalilpreview&show_icons=true&theme=chartreuse-dark&count_private=true alt="khalilpreview" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khalilpreview&show_icons=true&locale=en&layout=compact" alt="khalilpreview" /></p>
+
 
 
   
