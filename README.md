@@ -5,11 +5,15 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khalilpreview" alt="khalilpreview" /></a> </p>
 
+![Caddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalilpreview&show_icons=true&theme=shades-of-purple&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalilpreviewDz&hide=html,css&layout=compact&theme=shades-of-purple)](https://github.com/khalil/khalilpreview)
+
 
 <p align="center"> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khalilpreview&show_icons=true" alt="khalilpreview" /></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=khalilpreview" alt="khalilpreview" /> </p>
 <p align="center">
 <a href="https://dev.to/khalilpreview" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="khalilpreview" height="30" width="30" /></a>
+  
 <a href="https://twitter.com/khalil_preview" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="khalil_preview" height="30" width="30" /></a>
 <a href="https://fb.com/khalilpreview" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="khalilpreview" height="30" width="30" /></a>
 <a href="https://instagram.com/khalil_preview" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="khalil_preview" height="30" width="30" /></a>
