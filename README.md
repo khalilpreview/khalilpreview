@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khalil Preview</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khalilpreview" alt="khalilpreview" /> </p>
 <h2> I'm a Python Full-Stack Developer, I create awesome and effective open-source software and platforms of all sizes. </h2>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khalilpreview&label=Profile%20views&color=0e75b6&style=flat" alt="khalilpreview" /> </p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khalilpreview&show_icons=true" alt="khalilpreview" /></p>
