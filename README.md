@@ -5,8 +5,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khalilpreview" alt="khalilpreview" /></a> </p>
 
-![Caddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalilpreview&show_icons=true&theme=shades-of-purple&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalilpreviewDz&hide=html,css&layout=compact&theme=shades-of-purple)](https://github.com/khalil/khalilpreview)
+![Khalil's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalilpreview&show_icons=true&theme=shades-of-purple&count_private=true)
+
 
 
 <p align="center"> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khalilpreview&show_icons=true" alt="khalilpreview" /></p>
