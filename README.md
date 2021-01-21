@@ -4,8 +4,6 @@
 
 <h3 align="center"> I'm a Python Full-Stack Developer, I create awesome and effective open-source software and platforms of all sizes. </h2>
 
-- 📫 How to reach me **previewsites40@gmail.com**
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khalilpreview&theme=juicyfresh" alt="khalilpreview" /></a> </p>
 
 <p align="center"><img align="center" src=https://github-readme-stats.vercel.app/api?username=khalilpreview&show_icons=true&theme=chartreuse-dark&count_private=true alt="khalilpreview" /></p>
