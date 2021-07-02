@@ -1,5 +1,5 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=khalilpreview" alt="khalilpreview" /> </p>
-<h1 align="center">Hi 👋, I'm Khalil Preview <p href="https://khalilpreview.space">Visite my portfolio</p></h1>
+<h1 align="center">Hi 👋, I'm Khalil Preview <a href="https://khalilpreview.space">Visite my portfolio</a></h1>
 <h2 align="center">A lead back-end dev at NEO Finetech</h3>
 
 <h3 align="center"> I'm a Python Full-Stack Developer, I create awesome and effective open-source software and platforms of all sizes. </h2>
