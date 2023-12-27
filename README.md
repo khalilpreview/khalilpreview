@@ -1,8 +1,5 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=khalilpreview" alt="khalilpreview" /> </p>
-<h1 align="center">Hi 👋, I'm Khalil Preview <a href="https://khalilpreview.space">Visite my portfolio</a></h1>
-<h2 align="center">A lead Back-end Developer at NEO Finetech</h3>
-
-<h3 align="center"> I'm a Python Full-Stack Developer, I create awesome and effective open-source software and platforms of all sizes. </h2>
+<h1 align="center">Hi 👋, I'm Khalil Preview </h1>
 
 <div align = center >
     <a href = "https://github.com/khalilpreview/github-readme-streak-stats" title = "Go to Source" >
