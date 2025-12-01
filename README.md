@@ -10,7 +10,7 @@
 
 <p align="center">
   <!-- ZYNIQ LOGO -->
-  <img src="https://raw.githubusercontent.com/khalilpreview/khalilpreview/master/assets/zyniq-logo.png" alt="ZYNIQ Logo" height="100"/>
+  <img src="https://raw.githubusercontent.com/khalilpreview/M7yapp9sColl3c1oncdn/refs/heads/main/ZYNIQ%20LOGO.png" alt="ZYNIQ Logo" height="100"/>
 </p>
 
 <h1 align="center">Hi, I'm Khalil</h1>
