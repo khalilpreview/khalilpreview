@@ -3,9 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;AI+Architect;Cybersecurity+Enthusiast" alt="Typing SVG" />
 </p>
 
-<!-- ASCII Profile Art -->
-<div align="center">
-<pre><code>
                                                                         
                                   -*==.                                
                             =:--+:     .*:.:                           
@@ -44,8 +41,6 @@
     %  #=*.   %-  #+  =.-             .    ::*  :. ::   -. .+--:  : :. 
     #  *-  - +%  %*:  +=:                 ::=. .-::+.   - .%...:-:  -  
    .= --  : .%  *#-  :*=.  =         . - --:=  -=::=.   = #   : =     
-</code></pre>
-</div>
 
 <h3 align="center">Senior Software Engineer & AI Architect | Algeria 🇩🇿</h3>
 <p align="center">
