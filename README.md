@@ -1,68 +1,76 @@
-<!-- 
-   ██████╗ ██╗   ██╗███╗   ██╗██╗██╗     ███████╗
-  ██╔══██╗██║   ██║████╗  ██║██║██║     ██╔════╝
-  ██║  ██║██║   ██║██╔██╗ ██║██║██║     █████╗  
-  ██║  ██║██║   ██║██║╚██╗██║██║██║     ██╔══╝  
-  ██████╔╝╚██████╔╝██║ ╚████║██║███████╗███████╗
-  ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚═╝╚══════╝╚══════╝
-           Founder @ ZYNIQ | AI Architect
--->
-
+<!-- Typing SVG Header -->
 <p align="center">
-  <!-- ZYNIQ LOGO -->
-  <img src="https://raw.githubusercontent.com/khalilpreview/M7yapp9sColl3c1oncdn/refs/heads/main/ZYNIQ%20LOGO.png" alt="ZYNIQ Logo" height="100"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;AI+Architect;Cybersecurity+Enthusiast" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hi, I'm Khalil</h1>
-
+<h3 align="center">Senior Software Engineer & AI Architect | Algeria 🇩🇿</h3>
 <p align="center">
-  🏢 Founder & CEO <a href="https://zyniq.solutions/">ZYNIQ</a> <br>
-  🤝 Co-Founder <a href="https://algenius.solutions/">Algenius</a> <br>
-  💻 Senior Software Engineer | Backend Specialist <br>
-  🤖 AI Architect & Visionary
+  Designing scalable backend architectures, integrating AI-driven solutions, and delivering high-performance digital platforms with a commitment to quality and client satisfaction.
 </p>
 
----
+<br/>
 
 ### 🚀 About Me
 
-I'm a tech entrepreneur, senior backend developer, and AI architect—coding the future with vision and purpose. At ZYNIQ, we believe "the future is coded by us."
+**Senior Software Engineer & AI Architect** passionate about scalable systems, intelligent automation, and engineering leadership.
+- 🧑‍💻 **Expert in** Python (Flask, FastAPI) and JavaScript for building scalable web applications and cloud-native solutions.
+- ⚙️ **Experienced in** AI architecture, system design, and building robust, high-performance backend services.
+- ☁️ **Strong background in** Linux environments, containerization (Docker), and cloud deployments.
+- 🔐 **Passionate about** cybersecurity, specifically Web Application Penetration Testing and secure architecture.
+- 🤖 **Specialized in** AI-driven solutions, Research & Development (R&D), and data automation pipelines.
+- 🧠 **Committed to** delivering professional, high-quality work, ensuring complete client satisfaction, and providing continuous technical support.
+- 📈 **Leadership focus on** turning innovative ideas into reality, participating in hackathons, and driving tech communities forward.
 
-I design and build innovative AI projects, including multi-agent systems where AI agents collaborate as teams. My expertise spans most of the popular Python frameworks, advanced backend architectures, and leading-edge AI integrations.
+<br/>
 
-I'm not special, but my journey is driven by a simple philosophy: **vision and code can change the world.**
+### 🛠️ Tech Stack & Tools
 
----
+**Backend & System Design**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 
-### 🧠 What I Do Best
+**AI, ML & Intelligent Systems**
+<br/>
+<img src="https://img.shields.io/badge/AI_Architecture-FF6F00?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
+<img src="https://img.shields.io/badge/Research_&_Development-4B0082?style=for-the-badge&logo=micro-genetics&logoColor=white" />
+<img src="https://img.shields.io/badge/Automation-181717?style=for-the-badge&logo=github-actions&logoColor=white" />
 
-- **Backend Engineering:** Deep expertise with Python (FastAPI, Django, Flask, etc.), scalable cloud architectures, microservices, and high-performance APIs.
-- **AI Innovation:** Architecting AI solutions—from single models to complex multi-agent systems, pioneering new patterns in artificial intelligence.
-- **Team Leadership:** Building and leading tech teams in fast-paced environments, as founder & senior engineer.
+**☁️ Cloud, DevOps & Security**
+<br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Cybersecurity-DD0031?style=for-the-badge&logo=tryhackme&logoColor=white" />
 
----
+<br/>
 
-### 🌐 Find Me Online
-
-- 💼 Portfolio: [khalilpreview.space](https://khalilpreview.space/)
-- 🏢 ZYNIQ: [zyniq.solutions](https://zyniq.solutions/)
-- 🤝 Algenius: [algenius.solutions](https://algenius.solutions/)
-
----
-
-### 🏆 The ZYNIQ Philosophy
-
-> "The future is coded by us."
-
-Every project reflects a drive to innovate, a passion for collaborative technologies, and a belief that software shapes tomorrow.
-
----
+### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khalilpreview" alt="Profile views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khalilpreview&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3" alt="Khalil's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khalilpreview&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3" alt="Khalil's GitHub Streak" width="48%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilpreview&layout=compact&theme=transparent&hide_border=true&title_color=2196F3" alt="Top Languages" />
 </p>
 
+<br/>
 
+### 🌐 Connect with Me
 
-  
+<p align="left">
+  <a href="https://khalilpreview.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Portfolio-2196F3?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/khalilpreview" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
+<p align="center">
+  <br>
+  <i>“Think outside the ...! no box needed. Turning innovative ideas into reality.”</i>
+</p>
