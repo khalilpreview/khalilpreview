@@ -3,6 +3,50 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;AI+Architect;Cybersecurity+Enthusiast" alt="Typing SVG" />
 </p>
 
+<!-- ASCII Profile Art -->
+<div align="center">
+<pre><code>
+                                                                        
+                                  -*==.                                
+                            =:--+:     .*:.:                           
+                         .*=*-:  -=-#       :-.                        
+                              . : :  +-= - .                           
+                      @@#%@@@%=-:       :                              
+                     %==*-::        - :.                               
+                     @%####%@@@@@@@@#=+++. .-                          
+                    -%*++++++++++*#+-:=+: =+.                          
+                    @@++++++++++++=.-+-- .-.                           
+                    @%++++++++++**#**--.  .    .  .                    
+                    %@++++++++**#%+*%@%*-.  -:.  :-                    
+                     @@@@@@@##@@@@*          -   -.                    
+                   % *.    =%=+     :-   @#@@=-@  :+-                  
+                 @@  -  :    *.    @          -.     :                 
+                     % #*+- @@#    .        .::%   --                  
+                     @%-.+* @@:  -@%@@@:@@: ==.*-  =                   
+                     .*+#.=%%@    :   %*=  .+: .  =                    
+                     +@++*#%@@ *+ +@@*-.   ..   .%:                    
+                      @%**%*:      +*+=.: .    +.                      
+                      =@#@@       #@*#=        *.                      
+                       @*   .@*        .       %                       
+                        : *@@@@@@*.=:          %                       
+                          @*      .  -        .@                       
+                          @@@@**@@@#+          %  :                    
+                           @@@@@#=.               +=                   
+                                                  =: .                 
+                       .:=                       .                     
+                      :+:                                              
+                    .#+     :@@@+            .                .        
+                  :=-. .      @@@#=-. --                .          .   
+         :.   : .--:  -  .     :@@@%*#                                 
+       -:  :. -#=    - :                 .              :..            
+     .--.-= =* : :  +. ::             -+            .    .=            
+    --. -: #   +:  @- -.-  -                 .+  ...-   -:    ::.      
+    %  #=*.   %-  #+  =.-             .    ::*  :. ::   -. .+--:  : :. 
+    #  *-  - +%  %*:  +=:                 ::=. .-::+.   - .%...:-:  -  
+   .= --  : .%  *#-  :*=.  =         . - --:=  -=::=.   = #   : =     
+</code></pre>
+</div>
+
 <h3 align="center">Senior Software Engineer & AI Architect | Algeria 🇩🇿</h3>
 <p align="center">
   Designing scalable backend architectures, integrating AI-driven solutions, and delivering high-performance digital platforms with a commitment to quality and client satisfaction.
@@ -50,11 +94,13 @@
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khalilpreview&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3" alt="Khalil's GitHub Stats" width="48%"/>
+  <!-- Added cache_seconds to bypass Vercel timeouts -->
+  <img src="https://github-readme-stats.vercel.app/api?username=khalilpreview&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&cache_seconds=86400" alt="Khalil's GitHub Stats" width="48%"/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khalilpreview&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3" alt="Khalil's GitHub Streak" width="48%"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilpreview&layout=compact&theme=transparent&hide_border=true&title_color=2196F3" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilpreview&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 <br/>
