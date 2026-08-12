@@ -1,21 +1,16 @@
 <div align="center">
-
-### Khalil
-**Senior Software Engineer & AI Architect — Algeria 🇩🇿**
+### Ibrahim El Khalil
+**Senior Software Engineer | Software Design & AI Architect — UAE Dubai 🇦🇪 | Algeria 🇩🇿 **
 
 </div>
 
 ```text
-                                  -*==.
-                            =:--+:     .*:.:
-                         .*=*-:  -=-#       :-.
-                              . : :  +-= - .
                       @@#%@@@%=-:       :
                      %==*-::        - :.
-                     @%####%@@@@@@@@#=+++. .-    khalil@preview
+                     @%####%@@@@@@@@#=+++. .-    @khalilpreview
                     -%*++++++++++*#+-:=+: =+.    ----------------------------------------------
-                    @@++++++++++++=.-+-- .-.     Role: ...... Senior SWE & AI Architect
-                    @%++++++++++**#**--.  .   .  Location: .. Algeria
+                    @@++++++++++++=.-+-- .-.     Role: ...... Senior SWE | SWD & AI Architect
+                    @%++++++++++**#**--.  .   .  Location: .. Dubai, UAE | Algeria
                     %@++++++++**#%+*%@%*-. -: :- Focus: ..... Scalable Systems, InfoSec, AI R&D
                      @@@@@@@##@@@@*        -  -. Domains: ... Automation / Web Apps / CyberSec
                    % *.    =%=+     :-   @#@@=-@ 
@@ -30,8 +25,7 @@
                         : *@@@@@@*.=:          % 
                           @*      .  -        .@ 
                           @@@@**@@@#+          % 
-                           @@@@@#=.              
-                                                 
+                           @@@@@#=.                           
                        .:=                       
                       :+:                        
                     .#+     :@@@+            .                .        
@@ -41,5 +35,3 @@
      .--.-= =* : :  +. ::             -+            .    .=            
     --. -: #   +:  @- -.-  -                 .+  ...-   -:    ::.      
     %  #=*.   %-  #+  =.-             .    ::*  :. ::   -. .+--:  : :. 
-    #  *-  - +%  %*:  +=:                 ::=. .-::+.   - .%...:-:  -  
-   .= --  : .%  *#-  :*=.  =         . - --:=  -=::=.   = #   : =
